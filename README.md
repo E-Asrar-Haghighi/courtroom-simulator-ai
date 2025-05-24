@@ -4,7 +4,7 @@ An interactive AI-powered courtroom simulation application that allows users to 
 
 ## 🎥 Demo: AI Courtroom Simulator
 
-[![Watch the Demo](assets/loom-thumbnail.png)](https://www.loom.com/share/274944e4a316401db3cc03474addfdb9)
+[![Watch the Demo](loom-thumbnail.png)](https://www.loom.com/share/274944e4a316401db3cc03474addfdb9)
 
 This demo shows how CrewAI agents simulate courtroom roles like Judge, Prosecutor, and Witness.
 
