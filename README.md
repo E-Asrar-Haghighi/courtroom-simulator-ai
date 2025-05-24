@@ -2,6 +2,12 @@
 
 An interactive AI-powered courtroom simulation application that allows users to participate in simulated legal trials with multiple AI agents acting as judge, prosecutor, jury, and witnesses.
 
+## 🎥 Demo: AI Courtroom Simulator
+
+[![Watch the Demo](assets/loom-thumbnail.png)] (https://www.loom.com/share/274944e4a316401db3cc03474addfdb9)
+
+This demo shows how CrewAI agents simulate courtroom roles like Judge, Prosecutor, and Witness.
+
 ## Features
 
 *   **Interactive Command-Line Interface:** Manage the trial progression through simple commands.
