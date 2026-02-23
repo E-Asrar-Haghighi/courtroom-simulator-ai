@@ -1,4 +1,5 @@
 # An interactive AI courtroom simulation powered by multi-agent systems
+<img src="images/Header_pic.png" width="600">
 
 An interactive AI-powered courtroom simulation application that allows users to participate in simulated legal trials with multiple AI agents acting as judge, prosecutor, jury, and witnesses.
 
